@@ -14,10 +14,10 @@ The goal is to help users **track vehicle expenses, repairs, and mileage** for o
 ---
 
 ## 🧠 Tech Stack
-- **Swift 6 / SwiftUI**  
+- **Swift 6.2 / SwiftUI**  
 - **MVVM Architecture**  
 - **Core Data**  
-- **Xcode 16.4+**  
+- **Xcode 26+**  
 
 ---
 
